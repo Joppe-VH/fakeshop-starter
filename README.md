@@ -1,6 +1,6 @@
-# E-Commerce Frontend with Clerk Authentication
+# Fake Shop Frontend with Clerk Authentication
 
-A modern React e-commerce application with authentication powered by Clerk.
+This is a fake shop starter project to use for other learning activities.
 
 ## Project Overview
 

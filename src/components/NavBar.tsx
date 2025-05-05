@@ -46,7 +46,7 @@ export function NavBar() {
                 </CollapsibleTrigger>
 
                 <Link to="/" className="text-2xl font-bold text-gray-900">
-                  Shop
+                  Fake Shop
                 </Link>
               </div>
 

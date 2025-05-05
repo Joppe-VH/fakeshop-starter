@@ -1,4 +1,4 @@
-import { ComingSoon } from "./components/ComingSoon"
+import { ComingSoon } from "./pages/ComingSoon"
 import { Layout } from "./components/Layout"
 import { Routes, Route } from "react-router"
 import Home from "./pages/Home"
